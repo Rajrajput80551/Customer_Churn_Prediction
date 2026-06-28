@@ -72,8 +72,11 @@ Model Accuracy:
 
 ### Clone Repository
 
+```bash### Clone Repository
+
 ```bash
-[git clone https://github.com/your-username/customer_churn_prediction.git](https://github.com/Rajrajput80551/Customer_Churn_Prediction.git)
+git clone https://github.com/Rajrajput80551/Customer-Churn-Prediction.git
+```
 ```
 
 ### Go to Project Folder
