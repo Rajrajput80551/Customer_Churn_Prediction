@@ -74,8 +74,7 @@ Model Accuracy:
 
 ```bash### Clone Repository
 
-```bash
-git clone https://github.com/Rajrajput80551/Customer-Churn-Prediction.git
+ https://github.com/Rajrajput80551/Customer-Churn-Prediction.git
 ```
 ```
 
@@ -100,7 +99,7 @@ python train_model.py
 ### Run Streamlit App
 
 ```bash
-streamlit run app_v2.py
+streamlit run app.py
 ```
 
 ---
