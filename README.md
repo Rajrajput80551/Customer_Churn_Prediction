@@ -35,7 +35,6 @@ An end-to-end Machine Learning project that predicts whether a telecom customer 
 customer_churn_prediction/
 │
 ├── app.py
-├── app_v2.py
 ├── train_model.py
 ├── Customer_Churn.ipynb
 ├── model.pkl
